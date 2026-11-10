@@ -1,0 +1,44 @@
+{
+  "_base": "https://raw.githubusercontent.com/sleep-iiiiiiii/sleepsamples/main/",
+  "chord": [
+    "chord/fall.wav",
+    "chord/feel.wav",
+    "chord/liberation.wav",
+    "chord/mood.wav",
+    "chord/prophecy.wav",
+    "chord/razor.wav",
+    "chord/rubi.wav",
+    "chord/short.wav",
+    "chord/volt.wav"
+  ],
+  "kick": [
+    "kick/ancient.wav",
+    "kick/block.wav",
+    "kick/fat.wav",
+    "kick/mask.wav",
+    "kick/one.wav",
+    "kick/punch.wav",
+    "kick/rough.wav",
+    "kick/shape.wav",
+    "kick/torpedo.wav",
+    "kick/train.wav"
+  ],
+  "misc": [
+    "misc/n_ascend.wav",
+    "misc/n_Back.wav",
+    "misc/n_blue_marble.wav",
+    "misc/n_bowl.wav",
+    "misc/n_Commit.wav",
+    "misc/n_Confirm.wav",
+    "misc/n_delay_fx.wav",
+    "misc/n_Deny.wav",
+    "misc/n_dis_maj.wav",
+    "misc/n_dis_min.wav",
+    "misc/n_droid.wav",
+    "misc/n_hide.wav",
+    "misc/n_mazel.wav",
+    "misc/n_meridian.wav",
+    "misc/n_roll_maj.wav",
+    "misc/n_roll_min.wav"
+  ]
+}
